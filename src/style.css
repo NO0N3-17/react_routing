@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+}
+.links{
+    color: black;
+}
+.links > a{
+    text-decoration: none;
+    width: 100px;
+    padding: 50px;
+}
+
+.home > p{
+    color: black;
+    text-align: center;
+}
+.create > p{
+    color: black;
+    text-align: center;
+}
+.logout > p{
+    color: black;
+    text-align: center;
+}
+.content{
+    color: aqua;
+}
+.heading{
+    text-align: center;
+}
