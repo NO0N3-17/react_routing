@@ -2,7 +2,7 @@
   "name": "samplereact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gameboy-stack.github.io/reactRouting/",
+  "homepage": "https://github.com/NO0N3-17/react_routing/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
